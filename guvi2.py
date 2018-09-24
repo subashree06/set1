@@ -5,5 +5,5 @@ def main():
 		print("{} is even".format())
 	
 	else:
-		print " odd"
+		print " Odd"
 main()
