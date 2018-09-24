@@ -1,5 +1,5 @@
 def reverse(string): 
     string = string[::-1] 
     return string 
-s = "aabbcc"
+s = raw_input()
 print (reverse(s))
