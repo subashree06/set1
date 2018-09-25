@@ -1,6 +1,6 @@
-num1=3
-num2=4
-num3=5
+num1=input()
+num2=input()
+num3=input()
 if (num1 > num2) and (num1 > num3):
  largest = num1
 elif (num2 > num1) and (num2 > num3):
