@@ -1,4 +1,4 @@
-a=str(input())
+a=(input())
 if(a=="saturday" or a=="sunday"):
 	print("yes")
 else:
